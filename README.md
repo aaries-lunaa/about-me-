@@ -1,2 +1,3 @@
 # about-me-
 about me profile
+<!-- this is a profile is about me :) just another way to showcase what I can do :) along with that I would give you a github addresses as well so you would see all my projects I have done along with debugging codes along with my classmates, we learn something new everyday, and will contiune to do so, if you have any questions please feel free to ask :) thank you for your time and consideration to see this :) thank you :)  --> 
