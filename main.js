@@ -3,7 +3,7 @@ document.getElementById("home").addEventListener("click",toggleDisplay)
 document.getElementById("about").addEventListener("click",toggleDisplay)
 document.getElementById("portfolio").addEventListener("click",toggleDisplay)
 document.getElementById("contact").addEventListener("click",toggleDisplay)
-document.getElementById("resume").addEventListener("click",openPDF)
+// document.getElementById("resume").addEventListener("click",openPDF)
 
 function toggleDisplay(event){
     document.querySelectorAll(".tab").forEach((tab) => {
@@ -30,9 +30,9 @@ function carousel() {
   setTimeout(carousel, 2000); // Change image every 2 seconds
 }
 
-function openPDF(){
-        window.open("img/Resume (12).pdf")
-}
+// function openPDF(){
+//         window.open("img/ Maritza Ledezma Resume 2022.pdf")
+// }
 
 
 
